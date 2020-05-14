@@ -1,0 +1,25 @@
+{
+  "dashboard": {
+    "DASHBOARD": "Dashboard",
+    "WELCOME": "Welcome! How are you today?",
+    "DESCRIPTION": "Dashboard is under construction. <br/>Content will be added here in the future."
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Type and hit enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": "Navigation"
+    },
+    "nav": {
+      "DASHBOARD": "Dashboard",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  }
+}
